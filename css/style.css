@@ -1,0 +1,14 @@
+section {
+  background-color: tomato;
+}
+section h1 {
+  color: black;
+}
+section h1 a {
+  text-decoration: underline;
+}
+section h1:hover {
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=style.css.map */

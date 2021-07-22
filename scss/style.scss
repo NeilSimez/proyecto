@@ -1,0 +1,12 @@
+section{
+    background-color: tomato;
+    h1{
+        color:black;
+        a{
+            text-decoration: underline;
+        }
+        &:hover{
+            text-decoration: none;
+        }
+    }
+}
